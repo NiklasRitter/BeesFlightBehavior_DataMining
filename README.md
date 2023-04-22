@@ -17,3 +17,7 @@ During the project, various sources were used to deepen the understanding of dat
 
 ## Results
 The results of the project showed that it is possible to make predictions about bee behavior by analyzing weather and bee flight data. In particular, certain attributes were identified that have a strong influence on bee flight behavior.
+
+## Authors and acknowledgment
+This project was developed as a university group project.<br/>
+Group members: [Aaron](https://github.com/AaronWagener), [Eric](https://github.com/EricRode), [Niklas](https://github.com/NiklasRitter)
