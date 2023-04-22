@@ -1,0 +1,17 @@
+features,values
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun']",0.7314018144571262
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_humidity']",0.7196590576529119
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_tsun', 'dif_humidity']",0.7186859818554285
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7191688615744806
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7196663740122915
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7206540825285338
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7152326602282704
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7118159203980099
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7225929177641206
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7162130523851331
+"['temperature', 'tavg', 'tmax', 'tmin', 'prcp', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7181738366988587
+"['temperature', 'tavg', 'tmax', 'tmin', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7196517412935324
+"['temperature', 'tavg', 'tmax', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.727465613110916
+"['temperature', 'tavg', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7172300263388938
+"['temperature', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7226148668422593
+"['tavg', 'tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'weight', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7235806262803628

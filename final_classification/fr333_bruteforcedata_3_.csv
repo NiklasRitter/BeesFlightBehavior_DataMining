@@ -1,0 +1,21 @@
+features,values
+"['prcp', 'tsun', 'dif_weight']",0.592054433713784
+"['prcp', 'tsun', 'dif_tavg']",0.7083260169739537
+"['prcp', 'tsun', 'dif_tmin']",0.657330992098332
+"['prcp', 'tsun', 'dif_prcp']",0.590100965759438
+"['prcp', 'dif_weight', 'dif_tavg']",0.7211223295288264
+"['prcp', 'dif_weight', 'dif_tmin']",0.6391717881182323
+"['prcp', 'dif_weight', 'dif_prcp']",0.5748829382499268
+"['prcp', 'dif_tavg', 'dif_tmin']",0.7098185542873866
+"['prcp', 'dif_tavg', 'dif_prcp']",0.7137767047117353
+"['prcp', 'dif_tmin', 'dif_prcp']",0.6308311384255195
+"['tsun', 'dif_weight', 'dif_tavg']",0.7113110916008196
+"['tsun', 'dif_weight', 'dif_tmin']",0.6513974246414984
+"['tsun', 'dif_weight', 'dif_prcp']",0.5910886742756803
+"['tsun', 'dif_tavg', 'dif_tmin']",0.7069066432543167
+"['tsun', 'dif_tavg', 'dif_prcp']",0.7073748902546094
+"['tsun', 'dif_tmin', 'dif_prcp']",0.6701053555750659
+"['dif_weight', 'dif_tavg', 'dif_tmin']",0.7054214223002634
+"['dif_weight', 'dif_tavg', 'dif_prcp']",0.7113257243195785
+"['dif_weight', 'dif_tmin', 'dif_prcp']",0.6416520339479076
+"['dif_tavg', 'dif_tmin', 'dif_prcp']",0.7122768510389231

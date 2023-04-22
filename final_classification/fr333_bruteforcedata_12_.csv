@@ -1,0 +1,14 @@
+features,values
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun']",0.7372988001170618
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_humidity']",0.7299385425812118
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_tsun', 'dif_humidity']",0.7334211296458882
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7269900497512438
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.727992390986245
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7285045361428153
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7206394498097747
+"['tmax', 'tmin', 'prcp', 'tsun', 'humidity', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7205955516534974
+"['tmax', 'tmin', 'prcp', 'tsun', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7211515949663448
+"['tmax', 'tmin', 'prcp', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7172153936201349
+"['tmax', 'tmin', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7147351477904598
+"['tmax', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7265144863915715
+"['tmin', 'prcp', 'tsun', 'humidity', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp', 'dif_tsun', 'dif_humidity']",0.7309262510974539

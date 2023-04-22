@@ -1,0 +1,9 @@
+features,values
+"['prcp', 'tsun', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax']",0.7304580040971611
+"['prcp', 'tsun', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_prcp']",0.7324334211296458
+"['prcp', 'tsun', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmax', 'dif_prcp']",0.7368451858355283
+"['prcp', 'tsun', 'dif_temperature', 'dif_weight', 'dif_tmin', 'dif_tmax', 'dif_prcp']",0.719161545215101
+"['prcp', 'tsun', 'dif_temperature', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp']",0.7255267778753293
+"['prcp', 'tsun', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp']",0.7245537020778461
+"['prcp', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp']",0.7270119988293826
+"['tsun', 'dif_temperature', 'dif_weight', 'dif_tavg', 'dif_tmin', 'dif_tmax', 'dif_prcp']",0.7353160667251976
